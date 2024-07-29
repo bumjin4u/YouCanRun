@@ -13,7 +13,7 @@
 ## 주요 서비스 화면
 
 ### 로그인 화면
-![로그인](https://lab.ssafy.com/s09-metaverse-game-sub2/S09P22C101/-/raw/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/InGameGif/%EB%8F%84%EA%B0%90.gif)
+![로그인](https://github.com/bumjin4u/YouCanRun/blob/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/InGameGif/%EB%A1%9C%EA%B7%B8%EC%9D%B8.gif)
 ### 메인 UI
 ![코스튬](https://lab.ssafy.com/s09-metaverse-game-sub2/S09P22C101/-/raw/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/InGameGif/%EC%BD%94%EC%8A%A4%ED%8A%AC.gif)
 ![도감](https://lab.ssafy.com/s09-metaverse-game-sub2/S09P22C101/-/raw/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/InGameGif/%EB%8F%84%EA%B0%90.gif)
